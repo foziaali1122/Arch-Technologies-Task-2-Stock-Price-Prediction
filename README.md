@@ -82,7 +82,7 @@ Each model was evaluated using:
 
 📌 *Screenshot showing accuracy distribution of regression models*
 
-![Model Accuracy Pie Chart](images/model_accuracy_pie.png)
+![Model Accuracy Pie Chart](https://github.com/foziaali1122/Arch-Technologies-Task-2-Stock-Price-Prediction/blob/main/ss1.png)
 
 ---
 
