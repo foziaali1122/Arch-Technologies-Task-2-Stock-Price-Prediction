@@ -74,7 +74,7 @@ Each model was evaluated using:
 
 📌 *Screenshot of bar chart comparing all models accuracy*
 
-![Model Accuracy Bar Chart](images/model_accuracy_bar.png)
+![Model Accuracy Bar Chart](https://github.com/foziaali1122/Arch-Technologies-Task-2-Stock-Price-Prediction/blob/main/ss.png)
 
 ---
 
